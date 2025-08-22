@@ -1,2 +1,3 @@
 uname = Karthik
 pass = karthik@123
+email = karthik@gmail.com
